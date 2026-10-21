@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "packageName": "com.skymedia.skytvplayer",
+  "versionCode": 4,
+  "versionName": "1.0.0-beta.3",
+  "minSdk": 23,
+  "apkUrl": "https://github.com/sky2135/skytv-updates/releases/download/v1.0.0-beta.3/SKYtvPlayer-1.0.0-beta.3.apk",
+  "apkBytes": 17531725,
+  "sha256": "ccace2518c730497d990592312671155da423b3c60d22faba85d0f16ce5db3c7"
+}
