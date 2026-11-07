@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "com.skymedia.skytvplayer",
-  "versionCode": 8,
-  "versionName": "1.0.0-beta.7",
+  "versionCode": 9,
+  "versionName": "1.0.0-beta.8",
   "minSdk": 23,
-  "apkUrl": "https://github.com/sky2135/skytv-updates/releases/download/v1.0.0-beta.7/SKYtvPlayer-1.0.0-beta.7.apk",
-  "apkBytes": 17806106,
-  "sha256": "d23b8898f7fa8bc3f7095d3b2f12c614dcba0d6955e070aadda90ed1248d7fdd"
+  "apkUrl": "https://github.com/sky2135/skytv-updates/releases/download/v1.0.0-beta.8/SKYtvPlayer-1.0.0-beta.8.apk",
+  "apkBytes": 17806116,
+  "sha256": "aae8c8ce5c59355d235aae96a9fb012c75b58f9f6c44afac2e75362d24e44f37"
 }
